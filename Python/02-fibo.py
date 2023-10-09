@@ -22,9 +22,8 @@ class Calculation:
 #main function
 def main():
     calc=Calculation()
-    for n in range(1,11):
-        x=calc.fibonacci(n)
-        print(n,' = ',x)
+    x=calc.fibonacci(11)
+    print(x,' = ',x)
         
 
 if __name__=="__main__":
