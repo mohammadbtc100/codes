@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+
+void main() {
+	int a,b=4,*p;
+	a = b;
+	p = &a;
+
+	cout << "a : " << a << endl; //4
+	cout << "b : " << b << endl; //4
+	cout << "*p value  : " << *p << endl; //4
+	cout << "*p address: " << p << endl;
+
+	*p = 8;
+	cout << "*p : " << *p << endl;  //8
+
+	p = &b;
+	cout << "*p value  : " << *p << endl; //4
+
+}
+

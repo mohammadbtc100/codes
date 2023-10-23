@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+void main() {
+	int a = 4;
+	int b = a;
+
+	int *p;
+	p = &a;
+
+	cout << "*p->a=4 : " << *p << endl;
+	a = 5;
+	cout << "*p->a=5 : " << *p << endl;
+
+	b = 8;
+	p = &b;
+	cout << "*p->b=8 : " << *p << endl;
+}
+

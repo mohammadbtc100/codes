@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+
+class Mohasebat {
+	public:
+		int toCM(int m) {
+			int cm = m * 100;
+			return cm;
+		}
+};
+
+void main() {
+	Mohasebat obj = Mohasebat();
+	int m, cm;
+	cout << "Enter Meter : ";
+	cin >> m;
+	cm = obj.toCM(m);
+	cout << "Centimenter : " << cm << endl;
+}
+

@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int toCM(int m) {
+	int cm= m * 100;
+	return cm;
+}
+void main() {
+	int m, cm;
+	cout<<"Enter Meter : ";
+	cin >> m;
+	cm = toCM(m);
+	cout<<"Centimenter : "<< cm << endl;
+}
