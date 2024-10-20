@@ -1,0 +1,17 @@
+﻿@WebAPIMS_HostAddress = https://localhost:7270
+
+POST {{WebAPIMS_HostAddress}}/todoitems
+Content-Type: application/json
+{
+  "name":"walk dog",
+  "isComplete":true
+}
+###
+
+GET {{WebAPIMS_HostAddress}}/todoitems
+
+###
+
+POST {{WebAPIMS_HostAddress}}/todoitems
+
+###

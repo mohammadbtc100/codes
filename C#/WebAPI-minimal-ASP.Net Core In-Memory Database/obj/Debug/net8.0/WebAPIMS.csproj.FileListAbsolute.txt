@@ -1,0 +1,115 @@
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\appsettings.json
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\WebAPIMS.exe
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\WebAPIMS.deps.json
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\WebAPIMS.runtimeconfig.json
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\WebAPIMS.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\WebAPIMS.pdb
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.AssemblyInfoInputs.cache
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.AssemblyInfo.cs
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.csproj.CoreCompileInputs.cache
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIMS.props
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIMS.props
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIMS.props
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\scopedcss\bundle\WebAPIMS.styles.css
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.dll
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\refint\WebAPIMS.dll
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.pdb
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.genruntimeconfig.cache
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\ref\WebAPIMS.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moses\source\repos\WebAPIMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.csproj.AssemblyReference.cache
+C:\Users\Moses\source\repos\WebAPIMS\obj\Debug\net8.0\WebAPIMS.csproj.Up2Date
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\appsettings.Development.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\appsettings.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.exe
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.deps.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.runtimeconfig.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.pdb
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.AssemblyReference.cache
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.AssemblyInfoInputs.cache
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.AssemblyInfo.cs
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.CoreCompileInputs.cache
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.MvcApplicationPartsAssemblyInfo.cache
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.build.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.development.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIMS.props
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIMS.props
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIMS.props
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.pack.json
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\scopedcss\bundle\WebAPIMS.styles.css
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.Up2Date
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\refint\WebAPIMS.dll
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.pdb
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.genruntimeconfig.cache
+D:\1403-01\C# Tasks\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\ref\WebAPIMS.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\appsettings.Development.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\appsettings.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.exe
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.deps.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.runtimeconfig.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\WebAPIMS.pdb
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.AssemblyReference.cache
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.AssemblyInfoInputs.cache
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.AssemblyInfo.cs
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.CoreCompileInputs.cache
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.MvcApplicationPartsAssemblyInfo.cache
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.sourcelink.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.build.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.development.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.WebAPIMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPIMS.props
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIMS.props
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPIMS.props
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\staticwebassets.pack.json
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\scopedcss\bundle\WebAPIMS.styles.css
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.csproj.Up2Date
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\refint\WebAPIMS.dll
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.pdb
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\WebAPIMS.genruntimeconfig.cache
+D:\github\codes\C#\WebAPI-minimal-ASP.Net Core In-Memory Database\obj\Debug\net8.0\ref\WebAPIMS.dll
