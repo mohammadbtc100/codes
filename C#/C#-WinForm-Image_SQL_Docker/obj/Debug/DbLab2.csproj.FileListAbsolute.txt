@@ -1,0 +1,14 @@
+C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.exe.config
+C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.exe
+C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.pdb
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.csproj.AssemblyReference.cache
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.Form1.resources
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.Properties.Resources.resources
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.csproj.GenerateResource.cache
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.csproj.CoreCompileInputs.cache
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.exe
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.pdb
+C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.exe.manifest
+C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.application
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.exe.manifest
+C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.application
