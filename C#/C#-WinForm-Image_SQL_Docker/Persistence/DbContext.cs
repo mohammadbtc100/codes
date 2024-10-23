@@ -39,6 +39,16 @@ namespace DbLab2.Persistence
                 cnn.Close();
             return r;
         }
+        public int delete(int id) {
+
+            cmd = new SqlCommand("delete from novels where id="+id, cnn);
+            if (cnn.State != ConnectionState.Open)
+                cnn.Open();
+            int r = cmd.ExecuteNonQuery();
+            if (cnn.State != ConnectionState.Closed)
+                cnn.Close();
+            return r;
+        }
         public DataTable getList() { 
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter("select * from novels",cnn);

@@ -12,3 +12,17 @@ C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.exe.manifest
 C:\Users\Moses\source\repos\DbLab2\bin\Debug\DbLab2.application
 C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.exe.manifest
 C:\Users\Moses\source\repos\DbLab2\obj\Debug\DbLab2.application
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\bin\Debug\DbLab2.exe.config
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\bin\Debug\DbLab2.exe.manifest
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\bin\Debug\DbLab2.application
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\bin\Debug\DbLab2.exe
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\bin\Debug\DbLab2.pdb
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.csproj.AssemblyReference.cache
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.Form1.resources
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.Properties.Resources.resources
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.csproj.GenerateResource.cache
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.csproj.CoreCompileInputs.cache
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.exe.manifest
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.application
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.exe
+D:\github\codes\C#\C#-WinForm-Image_SQL_Docker\obj\Debug\DbLab2.pdb

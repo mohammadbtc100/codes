@@ -42,11 +42,29 @@ namespace DbLab2
         {
             dataGridView1.DataSource = dbContext.getList();
         }
-
+        private int rowId;
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            //get image from a row
             byte[] img = (byte[])dataGridView1.Rows[e.RowIndex].Cells[2].Value;
             pictureBox1.BackgroundImage=dbContext.bytesToImage(img);
+
+            //get row id
+            rowId = -1;
+            string strId = dataGridView1.Rows[e.RowIndex].Cells["id"].Value.ToString();
+            rowId = int.Parse(strId);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int v=dbContext.delete(rowId);
+            if (v == 1)
+                MessageBox.Show("You image is Deleted!");
+            else
+                MessageBox.Show("Error");
+            
+            //new loading
+            dataGridView1.DataSource = dbContext.getList();
         }
     }
 }
