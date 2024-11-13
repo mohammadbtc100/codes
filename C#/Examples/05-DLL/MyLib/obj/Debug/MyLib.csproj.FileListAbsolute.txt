@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\bin\Debug\MyLib.dll
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\bin\Debug\MyLib.pdb
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\obj\Debug\MyLib.dll
+C:\Users\Pc\source\repos\ConsoleApp1\MyLib\obj\Debug\MyLib.pdb
