@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|d:\\github\\source-codes\\c#\\examples\\win1\\win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|solutionrelative:win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|d:\\github\\source-codes\\c#\\examples\\win1\\win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|solutionrelative:win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs",
+              "RelativeDocumentMoniker": "Win1\\Form1.cs",
+              "ToolTip": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs",
+              "RelativeToolTip": "Win1\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:16:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs",
+              "RelativeDocumentMoniker": "Win1\\Form1.cs",
+              "ToolTip": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs [Design]",
+              "RelativeToolTip": "Win1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:07:07.96Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

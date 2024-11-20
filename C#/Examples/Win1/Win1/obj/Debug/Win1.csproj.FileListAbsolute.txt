@@ -1,0 +1,10 @@
+D:\github\Source-Codes\C#\Examples\Win1\Win1\bin\Debug\Win1.exe.config
+D:\github\Source-Codes\C#\Examples\Win1\Win1\bin\Debug\Win1.exe
+D:\github\Source-Codes\C#\Examples\Win1\Win1\bin\Debug\Win1.pdb
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.csproj.AssemblyReference.cache
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.Properties.Resources.resources
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.csproj.GenerateResource.cache
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.csproj.CoreCompileInputs.cache
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.exe
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.pdb
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.Form1.resources
