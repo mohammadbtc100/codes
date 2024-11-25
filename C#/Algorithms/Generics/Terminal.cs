@@ -8,8 +8,10 @@ namespace Algorithms.Generics
 {
     public static class Terminal
     {
-        public static void printArray(ref int[] array) { 
-            array.ToList().ForEach(x => Console.WriteLine(x));
+        public static void printArray(string message,int[] array) {
+            Console.Write(message + " : ");
+            array.ToList().ForEach(x => Console.Write(x+" "));
+            Console.WriteLine();
         }
     }
 }

@@ -15,14 +15,24 @@ namespace Algorithms
         {
             //Mohammad Ahmadzadeh, Skill National University of Minab
             int[] numbers = DbContext.numbers;
+            int n = numbers.Length;
+            Terminal.printArray("Array : ",numbers);
 
             /*BubbleSort search = new BubbleSort();
             search.sort(ref numbers);
-            Terminal.printArray(ref numbers);*/
+            Terminal.printArray("BubbleSort",numbers);*/
 
-            /*var sort = new MergeSort();
-            var sortedArray = sort.SortArray(numbers, 0, numbers.Length - 1);
-            Terminal.printArray(ref sortedArray);*/
+            var sort = new MergeSort();
+            sort.mergeSort(numbers, 0, n - 1);
+            Terminal.printArray("MergeSort",numbers);
+
+            /*QuickSort qSort = new QuickSort();
+            qSort.sort(ref numbers, 0, n - 1);
+            Terminal.printArray("QuickSort", numbers);*/
+
+
+
+
 
             /*var bSort = new BinarySearch();
             int index=bSort.NonRecursiveBinarySearch(ref numbers, 22);
@@ -36,11 +46,6 @@ namespace Algorithms
                 s=string.Format(s,index);
                 Console.WriteLine(s);
             }*/
-
-
-            QuickSort qSort = new QuickSort();
-            qSort.sort(ref numbers,0,numbers.Length-1);
-            Terminal.printArray(ref numbers);
 
             Console.ReadKey();
         }

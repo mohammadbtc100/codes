@@ -9,7 +9,7 @@ namespace Algorithms.Sort
     internal class BubbleSort
     {
         public BubbleSort() {
-            Console.WriteLine("BubbleSort");
+            //Console.WriteLine("BubbleSort");
         }
         public void sort(ref int[] items) {
             int n=items.Length;

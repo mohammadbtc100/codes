@@ -9,7 +9,7 @@ namespace Algorithms.Search
     internal class BinarySearch
     {
         public BinarySearch() {
-            Console.WriteLine("BinarySearch");
+            Console.WriteLine("\nDivide and Conquer approach => BinarySearch Algorithm");
         }
         public int NonRecursiveBinarySearch(ref int[] array, int target)
         {

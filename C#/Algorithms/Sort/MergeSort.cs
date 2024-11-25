@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,60 +10,62 @@ namespace Algorithms.Sort
     public class MergeSort
     {
         public MergeSort() {
-            Console.WriteLine("MergeSort");
+            Console.WriteLine("\nDivide and Conquer approach => MergeSort Algorithm");
         }
-        public void MergeArray(int[] array, int left, int middle, int right)
+        public void merge(int[] arr, int left, int middle, int right)
         {
-            var leftArrayLength = middle - left + 1;
-            var rightArrayLength = right - middle;
-            var leftTempArray = new int[leftArrayLength];
-            var rightTempArray = new int[rightArrayLength];
-            int i, j;
-
-            for (i = 0; i < leftArrayLength; ++i)
-                leftTempArray[i] = array[left + i];
-            for (j = 0; j < rightArrayLength; ++j)
-                rightTempArray[j] = array[middle + 1 + j];
-
+            int i, j, k;
+            int n1 = middle - left + 1;
+            int n2 = right - middle;
+            int[] L = new int[n1];
+            int[] R = new int[n2];
+            for (i = 0; i < n1; i++)
+            {
+                L[i] = arr[left + i];
+            }
+            for (j = 0; j < n2; j++)
+            {
+                R[j] = arr[middle + 1 + j];
+            }
             i = 0;
             j = 0;
-            int k = left;
-
-            while (i < leftArrayLength && j < rightArrayLength)
+            k = left;
+            while (i < n1 && j < n2)
             {
-                if (leftTempArray[i] <= rightTempArray[j])
+                if (L[i] <= R[j])
                 {
-                    array[k++] = leftTempArray[i++];
+                    arr[k] = L[i];
+                    i++;
                 }
                 else
                 {
-                    array[k++] = rightTempArray[j++];
+                    arr[k] = R[j];
+                    j++;
                 }
+                k++;
             }
-
-            while (i < leftArrayLength)
+            while (i < n1)
             {
-                array[k++] = leftTempArray[i++];
+                arr[k] = L[i];
+                i++;
+                k++;
             }
-
-            while (j < rightArrayLength)
+            while (j < n2)
             {
-                array[k++] = rightTempArray[j++];
+                arr[k] = R[j];
+                j++;
+                k++;
             }
         }
-        public int[] SortArray(int[] array, int left, int right)
+        public void mergeSort(int[] arr, int left, int right)
         {
             if (left < right)
             {
-                int middle = left + (right - left) / 2;
-
-                SortArray(array, left, middle);
-                SortArray(array, middle + 1, right);
-
-                MergeArray(array, left, middle, right);
+                int middle = (left + right) / 2;
+                mergeSort(arr, left, middle);
+                mergeSort(arr, middle + 1, right);
+                merge(arr, left, middle, right);
             }
-
-            return array;
         }
     }
 }

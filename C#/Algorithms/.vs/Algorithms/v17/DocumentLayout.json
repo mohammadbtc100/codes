@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\github\\Source-Codes\\C#\\Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\source-codes\\c#\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\source-codes\\c#\\algorithms\\sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|solutionrelative:sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Algorithms\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Algorithms\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBAAAAAuAAAA",
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Algorithms\\Sort\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Sort\\QuickSort.cs",
+              "ToolTip": "D:\\github\\Source-Codes\\C#\\Algorithms\\Sort\\QuickSort.cs",
+              "RelativeToolTip": "Sort\\QuickSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T15:36:11.412Z",
+              "WhenOpened": "2024-11-25T19:18:33.187Z",
               "EditorCaption": ""
             }
           ]
