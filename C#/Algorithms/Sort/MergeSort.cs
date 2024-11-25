@@ -10,7 +10,7 @@ namespace Algorithms.Sort
     public class MergeSort
     {
         public MergeSort() {
-            Console.WriteLine("\nDivide and Conquer approach => MergeSort Algorithm");
+            Console.WriteLine("\nDivide and Conquer approach => MergeSort Algorithm, Theta(nlogn)");
         }
         public void merge(int[] arr, int left, int middle, int right)
         {

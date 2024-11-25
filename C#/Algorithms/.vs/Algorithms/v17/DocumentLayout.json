@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\github\\Source-Codes\\C#\\Algorithms\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\source-codes\\c#\\algorithms\\sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|solutionrelative:sort\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuickSort.cs",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Algorithms\\Sort\\QuickSort.cs",
-              "RelativeDocumentMoniker": "Sort\\QuickSort.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Algorithms\\Sort\\QuickSort.cs",
-              "RelativeToolTip": "Sort\\QuickSort.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T19:18:33.187Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

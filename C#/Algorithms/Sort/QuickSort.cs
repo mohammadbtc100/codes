@@ -9,7 +9,7 @@ namespace Algorithms.Sort
     public class QuickSort
     {
         public QuickSort() {
-            Console.WriteLine("QuickSort");
+            Console.WriteLine("Divide and Conqure approach => QuickSort Algorithm O(nlogn)");
         }
         public void sort(ref int[] array, int low, int high)
         {

@@ -71,6 +71,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DP\BST.cs" />
+    <Compile Include="DP\Fibonacci.cs" />
     <Compile Include="Generics\DbContext.cs" />
     <Compile Include="Generics\Terminal.cs" />
     <Compile Include="Program.cs" />

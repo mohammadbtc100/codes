@@ -31,9 +31,6 @@ namespace Algorithms
             Terminal.printArray("QuickSort", numbers);*/
 
 
-
-
-
             /*var bSort = new BinarySearch();
             int index=bSort.NonRecursiveBinarySearch(ref numbers, 22);
             int index = sort.RecursiveBinarySearch(ref numbers, 22,0,numbers.Length);
@@ -46,6 +43,16 @@ namespace Algorithms
                 s=string.Format(s,index);
                 Console.WriteLine(s);
             }*/
+
+
+            DP.Fibonacci f = new DP.Fibonacci();
+            string s = "fibo({0}) => {1}";
+            n = 8;
+            s=string.Format(s, n, f.fibo(n));
+            Console.WriteLine(s);
+
+
+
 
             Console.ReadKey();
         }
