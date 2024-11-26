@@ -6,23 +6,24 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Search
 {
-    public class LinearSearch<T>
+    public class LinearSearch
     {
-        private readonly T[] items;
+        private readonly int[] array;
         private readonly int n;
         public LinearSearch() {
             n = 1;
-            this.items = new T[n];
+            this.array = new int[n];
             Console.WriteLine("LinearSearch");
         }
-        public LinearSearch(T[] items){
-            this.items = items;
-            n=items.Length;
+        public LinearSearch(int[] array)
+        {
+            this.array = array;
+            n= array.Length;
             Console.WriteLine("LinearSearch");
         }
-        public int find(T item) {
+        public int find(int x) {
             for (int i = 0; i < n; i++) { 
-                if(item.Equals(this.items[i])) 
+                if(x==this.array[i]) 
                     return i;
             }
             return -1;

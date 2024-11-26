@@ -16,8 +16,8 @@ namespace Algorithms.Sort
             int t;
             for (int i = 0; i < n; i++) {
                 for (int j = i+1; j < n; j++) {
-                    if (items[i] > items[j])
-                     {
+                    if (items[i] >= items[j])
+                     { 
                         t = items[i];
                         items[i] = items[j];
                         items[j] = t;
