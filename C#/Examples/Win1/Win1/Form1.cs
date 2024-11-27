@@ -17,9 +17,39 @@ namespace Win1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            //MessageBox.Show("Your Welcome"); 
+            this.BackgroundImageLayout=ImageLayout.Stretch;
+            this.BackgroundImage = Image.FromFile("bg1.jpg");
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("در دست طراحی می باشد");
+        }
+
+        private void cntactToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("در دست طراحی می باشد");
+        }
+
+        private void aboutUsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutUs obj = new AboutUs();
+            obj.Text = "درباره ما";
+            obj.ControlBox=false;
+            obj.RightToLeft = RightToLeft.Yes;  
+            obj.StartPosition=FormStartPosition.CenterParent;
+            obj.BackColor = Color.Gray;    //background color
+            obj.ForeColor = Color.Black;    //text color
+            obj.Height = 300;
+            obj.Width = 600;
+            obj.ShowDialog();
         }
     }
 }
