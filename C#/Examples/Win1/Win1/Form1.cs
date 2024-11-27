@@ -21,6 +21,10 @@ namespace Win1
         {
             this.BackgroundImageLayout=ImageLayout.Stretch;
             this.BackgroundImage = Image.FromFile("bg1.jpg");
+
+            Login login = new Login();
+            login.StartPosition = FormStartPosition.CenterParent;
+            login.ShowDialog(); 
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -50,6 +54,13 @@ namespace Win1
             obj.Height = 300;
             obj.Width = 600;
             obj.ShowDialog();
+        }
+
+        private void mnuFileUserExit_Click(object sender, EventArgs e)
+        {
+            Login obj = new Login();
+            obj.StartPosition = FormStartPosition.CenterParent; 
+            obj.ShowDialog(this);
         }
     }
 }

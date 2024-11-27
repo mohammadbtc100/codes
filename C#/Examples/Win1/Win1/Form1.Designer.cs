@@ -35,6 +35,7 @@
             this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.cntactToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutUsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuFileUserExit = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,6 +55,7 @@
             // fileToolStripMenuItem
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mnuFileUserExit,
             this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(62, 24);
@@ -79,23 +81,30 @@
             // helpToolStripMenuItem1
             // 
             this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
-            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.helpToolStripMenuItem1.Size = new System.Drawing.Size(158, 26);
             this.helpToolStripMenuItem1.Text = "راهنما";
             this.helpToolStripMenuItem1.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
             // 
             // cntactToolStripMenuItem
             // 
             this.cntactToolStripMenuItem.Name = "cntactToolStripMenuItem";
-            this.cntactToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cntactToolStripMenuItem.Size = new System.Drawing.Size(158, 26);
             this.cntactToolStripMenuItem.Text = "ارتباط با ما";
             this.cntactToolStripMenuItem.Click += new System.EventHandler(this.cntactToolStripMenuItem_Click);
             // 
             // aboutUsToolStripMenuItem
             // 
             this.aboutUsToolStripMenuItem.Name = "aboutUsToolStripMenuItem";
-            this.aboutUsToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.aboutUsToolStripMenuItem.Size = new System.Drawing.Size(158, 26);
             this.aboutUsToolStripMenuItem.Text = "درباره ما";
             this.aboutUsToolStripMenuItem.Click += new System.EventHandler(this.aboutUsToolStripMenuItem_Click);
+            // 
+            // mnuFileUserExit
+            // 
+            this.mnuFileUserExit.Name = "mnuFileUserExit";
+            this.mnuFileUserExit.Size = new System.Drawing.Size(224, 26);
+            this.mnuFileUserExit.Text = "خروج کاربر";
+            this.mnuFileUserExit.Click += new System.EventHandler(this.mnuFileUserExit_Click);
             // 
             // Form1
             // 
@@ -108,7 +117,7 @@
             this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.ShowIcon = false;
@@ -132,6 +141,7 @@
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem cntactToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem aboutUsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mnuFileUserExit;
     }
 }
 

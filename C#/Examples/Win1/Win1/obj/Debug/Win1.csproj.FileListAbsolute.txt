@@ -9,3 +9,4 @@ D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.exe
 D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.pdb
 D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.Form1.resources
 D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.AboutUs.resources
+D:\github\Source-Codes\C#\Examples\Win1\Win1\obj\Debug\Win1.Login.resources
