@@ -1,6 +1,6 @@
-mod fibo{
+pub mod fibo{
     //Non-Recursive
-    pub fn fibo(n:u32,print:bool) -> u32{
+    pub fn fibo_algo_non_recursive(n:u32,print:bool) -> u32{
         let mut i=3;
         let mut a:u32=0;
         let mut b:u32=1;
