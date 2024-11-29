@@ -1,6 +1,8 @@
-//N0n Recursive
+//Mohammad Ahmadzadeh
+
+//Non-Recursive
 fn fibo(n:u32,print:bool) -> u32{
-    let mut i=2;
+    let mut i=3;
     let mut a:u32=0;
     let mut b:u32=1;
     let mut c:u32 = 1;
@@ -22,7 +24,8 @@ fn fibo(n:u32,print:bool) -> u32{
 fn fibonacci(mut n: u32) -> u32 {
     match n {
         0 => panic!("Zero is not a Right argument"),
-        1 | 2=> 1,
+        1 => 0,
+        2 => 1,
         _ => fibonacci(n-1)+fibonacci(n-2)
     }
 }
