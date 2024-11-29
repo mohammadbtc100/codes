@@ -31,7 +31,7 @@ fn fibonacci(mut n: u32) -> u32 {
 }
 fn main() {
     let n=8;
-    //Print Series
+    //Series printing
     let mut value = fibo(n, true);
     println!("\nFibo({0}) last Term is {1}",n,value);
 
