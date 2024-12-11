@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moses\\source\\repos\\CA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B62A35-8637-4E02-8736-D5447FB47B99}|CA1.csproj|c:\\users\\moses\\source\\repos\\ca1\\presentation\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B62A35-8637-4E02-8736-D5447FB47B99}|CA1.csproj|solutionrelative:presentation\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B62A35-8637-4E02-8736-D5447FB47B99}|CA1.csproj|c:\\users\\moses\\source\\repos\\ca1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B62A35-8637-4E02-8736-D5447FB47B99}|CA1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Console.cs",
+              "DocumentMoniker": "C:\\Users\\Moses\\source\\repos\\CA1\\Presentation\\Console.cs",
+              "RelativeDocumentMoniker": "Presentation\\Console.cs",
+              "ToolTip": "C:\\Users\\Moses\\source\\repos\\CA1\\Presentation\\Console.cs",
+              "RelativeToolTip": "Presentation\\Console.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:09:32.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moses\\source\\repos\\CA1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Moses\\source\\repos\\CA1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:03:39.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
