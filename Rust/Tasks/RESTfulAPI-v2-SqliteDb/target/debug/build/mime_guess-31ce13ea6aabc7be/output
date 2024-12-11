@@ -1,1 +1,0 @@
-cargo:rustc-env=MIME_TYPES_GENERATED_PATH=D:\github\Source-Codes\Rust\Tasks\RESTfulAPI-v2-SqliteDb\target\debug\build\mime_guess-31ce13ea6aabc7be\out\mime_types_generated.rs
