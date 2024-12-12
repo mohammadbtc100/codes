@@ -1,0 +1,3 @@
+﻿------ Build started: Project: DataBase, Configuration: Debug Any CPU ------
+  DataBase -> G:\Term Management\Component\DataBase\DataBase\bin\Debug\DataBase.dll
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
