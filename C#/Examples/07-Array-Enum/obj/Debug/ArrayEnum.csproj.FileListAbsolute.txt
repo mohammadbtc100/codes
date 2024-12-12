@@ -1,7 +1,0 @@
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\bin\Debug\ArrayEnum.exe.config
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\bin\Debug\ArrayEnum.exe
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\bin\Debug\ArrayEnum.pdb
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\obj\Debug\ArrayEnum.csproj.AssemblyReference.cache
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\obj\Debug\ArrayEnum.csproj.CoreCompileInputs.cache
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\obj\Debug\ArrayEnum.exe
-D:\github\Source-Codes\C#\Examples\07-Array-Enum\obj\Debug\ArrayEnum.pdb
