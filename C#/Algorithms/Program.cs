@@ -15,21 +15,25 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //Mohammad Ahmadzadeh, Skill National University of Minab
+            //تعریف یک آرایه عددی
             int[] numbers = DbContext.numbers;
+            //طول آرایه
             int n = numbers.Length;
+            //چاپ آرایه
             Terminal.printArray("Array : ",numbers);
 
-            /*BubbleSort search = new BubbleSort();
-            search.sort(ref numbers);
+            /*BubbleSort b = new BubbleSort();
+            b.sort(ref numbers);
             Terminal.printArray("BubbleSort",numbers);*/
 
-            var sort = new MergeSort();
+            /*var sort = new MergeSort();
             sort.mergeSort(numbers, 0, n - 1);
-            Terminal.printArray("MergeSort",numbers);
+            Terminal.printArray("MergeSort", numbers);*/
 
-            /*QuickSort qSort = new QuickSort();
+
+            QuickSort qSort = new QuickSort();
             qSort.sort(ref numbers, 0, n - 1);
-            Terminal.printArray("QuickSort", numbers);*/
+            Terminal.printArray("QuickSort", numbers);
 
             /*LinearSearch linear = new LinearSearch(numbers);
             n = 11;
@@ -44,7 +48,7 @@ namespace Algorithms
                 s1 = string.Format(s1, index);
                 Console.WriteLine(s1);
             }*/
-            
+
             /*var bSort = new BinarySearch();
             //int index=bSort.NonRecursiveBinarySearch(ref numbers, 22);
             int index = bSort.RecursiveBinarySearch(ref numbers, 22,0,numbers.Length);
@@ -65,7 +69,6 @@ namespace Algorithms
             s=string.Format(s, n, f.fibo(n));
             Console.WriteLine(s);
             */
-
 
 
             Console.ReadKey();

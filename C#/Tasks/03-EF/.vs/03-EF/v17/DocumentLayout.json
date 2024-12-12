@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B8933B2A-8B1A-4D69-9E9C-D3E347EBBA5A}|03-EF.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8933B2A-8B1A-4D69-9E9C-D3E347EBBA5A}|03-EF.csproj|d:\\github\\source-codes\\c#\\tasks\\03-ef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B8933B2A-8B1A-4D69-9E9C-D3E347EBBA5A}|03-EF.csproj|D:\\github\\Source-Codes\\C#\\Tasks\\03-EF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8933B2A-8B1A-4D69-9E9C-D3E347EBBA5A}|03-EF.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,8 +47,7 @@
               "RelativeToolTip": "EFContext.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAA+wEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:03:05.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T21:03:05.836Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "ToolTip": "D:\\github\\Source-Codes\\C#\\Tasks\\03-EF\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:02:27.803Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-09T21:02:27.803Z"
             }
           ]
         }
