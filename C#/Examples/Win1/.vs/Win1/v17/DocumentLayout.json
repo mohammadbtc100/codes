@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\",
+  "WorkspaceRootPath": "D:\\github\\Codes\\C#\\Examples\\Win1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|d:\\github\\source-codes\\c#\\examples\\win1\\win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|d:\\github\\codes\\c#\\examples\\win1\\win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|solutionrelative:win1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|D:\\github\\Source-Codes\\C#\\Examples\\Win1\\win1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|D:\\github\\Codes\\C#\\Examples\\Win1\\win1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|solutionrelative:win1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|D:\\github\\Source-Codes\\C#\\Examples\\Win1\\win1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|D:\\github\\Codes\\C#\\Examples\\Win1\\win1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CF4DB60-A9F3-4E4E-8A3F-0298747886EB}|Win1\\Win1.csproj|solutionrelative:win1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs",
               "RelativeDocumentMoniker": "Win1\\Form1.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs [Design]",
+              "ToolTip": "D:\\github\\Codes\\C#\\Examples\\Win1\\Win1\\Form1.cs [Design]",
               "RelativeToolTip": "Win1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:23:48.028Z",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\User.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Examples\\Win1\\Win1\\User.cs",
               "RelativeDocumentMoniker": "Win1\\User.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\User.cs",
+              "ToolTip": "D:\\github\\Codes\\C#\\Examples\\Win1\\Win1\\User.cs",
               "RelativeToolTip": "Win1\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAgwA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,10 +52,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Login.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Examples\\Win1\\Win1\\Login.cs",
               "RelativeDocumentMoniker": "Win1\\Login.cs",
               "ToolTip": "D:\\github\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Login.cs [Design]",
-              "RelativeToolTip": "Win1\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Source-Codes\\C#\\Examples\\Win1\\Win1\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T06:06:56.751Z"
             }
