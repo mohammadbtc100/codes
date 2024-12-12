@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Memories\\Term Management\\Term Management\\Component\\MaskedTextbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50225358-49DA-4274-897D-961EB68CEE34}|MaskedTextbox\\MaskedTextbox.csproj|f:\\memories\\term management\\term management\\component\\maskedtextbox\\maskedtextbox\\maskedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50225358-49DA-4274-897D-961EB68CEE34}|MaskedTextbox\\MaskedTextbox.csproj|solutionrelative:maskedtextbox\\maskedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50225358-49DA-4274-897D-961EB68CEE34}|MaskedTextbox\\MaskedTextbox.csproj|f:\\memories\\term management\\term management\\component\\maskedtextbox\\maskedtextbox\\maskedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50225358-49DA-4274-897D-961EB68CEE34}|MaskedTextbox\\MaskedTextbox.csproj|solutionrelative:maskedtextbox\\maskedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaskedTextbox.cs",
+              "DocumentMoniker": "F:\\Memories\\Term Management\\Term Management\\Component\\MaskedTextbox\\MaskedTextbox\\MaskedTextbox.cs",
+              "RelativeDocumentMoniker": "MaskedTextbox\\MaskedTextbox.cs",
+              "ToolTip": "F:\\Memories\\Term Management\\Term Management\\Component\\MaskedTextbox\\MaskedTextbox\\MaskedTextbox.cs",
+              "RelativeToolTip": "MaskedTextbox\\MaskedTextbox.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:09:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaskedTextbox.cs [Design]",
+              "DocumentMoniker": "F:\\Memories\\Term Management\\Term Management\\Component\\MaskedTextbox\\MaskedTextbox\\MaskedTextbox.cs",
+              "RelativeDocumentMoniker": "MaskedTextbox\\MaskedTextbox.cs",
+              "ToolTip": "F:\\Memories\\Term Management\\Term Management\\Component\\MaskedTextbox\\MaskedTextbox\\MaskedTextbox.cs [Design]",
+              "RelativeToolTip": "MaskedTextbox\\MaskedTextbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:09:04.08Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
