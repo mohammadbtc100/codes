@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 using Algorithms.Generics;
 using Algorithms.Search;
 using Algorithms.Sort;
@@ -15,43 +14,19 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //Mohammad Ahmadzadeh, Skill National University of Minab
-            //تعریف یک آرایه عددی
             int[] numbers = DbContext.numbers;
-            //طول آرایه
-            int n = numbers.Length;
-            //چاپ آرایه
-            Terminal.printArray("Array : ",numbers);
 
-            /*BubbleSort b = new BubbleSort();
-            b.sort(ref numbers);
-            Terminal.printArray("BubbleSort",numbers);*/
+            /*BubbleSort search = new BubbleSort();
+            search.sort(ref numbers);
+            Terminal.printArray(ref numbers);*/
 
             /*var sort = new MergeSort();
-            sort.mergeSort(numbers, 0, n - 1);
-            Terminal.printArray("MergeSort", numbers);*/
-
-
-            QuickSort qSort = new QuickSort();
-            qSort.sort(ref numbers, 0, n - 1);
-            Terminal.printArray("QuickSort", numbers);
-
-            /*LinearSearch linear = new LinearSearch(numbers);
-            n = 11;
-            int index=linear.find(n);
-            if (index < 0)
-            {
-                Console.WriteLine("Target value not found.");
-            }
-            else
-            {
-                string s1 = "The Target value was found at location {0}.";
-                s1 = string.Format(s1, index);
-                Console.WriteLine(s1);
-            }*/
+            var sortedArray = sort.SortArray(numbers, 0, numbers.Length - 1);
+            Terminal.printArray(ref sortedArray);*/
 
             /*var bSort = new BinarySearch();
-            //int index=bSort.NonRecursiveBinarySearch(ref numbers, 22);
-            int index = bSort.RecursiveBinarySearch(ref numbers, 22,0,numbers.Length);
+            int index=bSort.NonRecursiveBinarySearch(ref numbers, 22);
+            int index = sort.RecursiveBinarySearch(ref numbers, 22,0,numbers.Length);
             if (index < 0)
             {
                 Console.WriteLine("Target value not found.");
@@ -63,13 +38,24 @@ namespace Algorithms
             }*/
 
 
-            /*DP.Fibonacci f = new DP.Fibonacci();
-            string s = "fibo({0}) => {1}";
-            n = 8;
-            s=string.Format(s, n, f.fibo(n));
-            Console.WriteLine(s);
-            */
+            /*QuickSort qSort = new QuickSort();
+            qSort.sort(ref numbers,0,numbers.Length-1);
+            Terminal.printArray(ref numbers);*/
 
+            int[,] graph = new int[,]
+            {
+                { 0, 2, 0, 6, 0 },
+                { 2, 0, 3, 8, 5 },
+                { 0, 3, 0, 0, 7 },
+                { 6, 8, 0, 0, 9 },
+                { 0, 5, 7, 9, 0 },
+            };
+
+            /*Greedy.Prim prim = new Greedy.Prim();
+            prim.Run(graph);*/
+            
+            Backtrack.NQueen nQueen = new Backtrack.NQueen();
+            nQueen.SolveNQueens(8);
 
             Console.ReadKey();
         }
