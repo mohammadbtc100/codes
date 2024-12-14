@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\Source-Codes\\C#\\Algorithms\\",
+  "WorkspaceRootPath": "D:\\github\\Codes\\C#\\Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\source-codes\\c#\\algorithms\\dp\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\codes\\c#\\algorithms\\dp\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|solutionrelative:dp\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|d:\\github\\source-codes\\c#\\algorithms\\dp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|D:\\github\\Codes\\C#\\Algorithms\\dp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3806E1B2-18ED-4D48-9537-91CA7C7BE7E2}|Algorithms.csproj|solutionrelative:dp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BST.cs",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Algorithms\\DP\\BST.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Algorithms\\DP\\BST.cs",
               "RelativeDocumentMoniker": "DP\\BST.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Algorithms\\DP\\BST.cs",
+              "ToolTip": "D:\\github\\Codes\\C#\\Algorithms\\DP\\BST.cs",
               "RelativeToolTip": "DP\\BST.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:44:44.852Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Fibonacci.cs",
-              "DocumentMoniker": "D:\\github\\Source-Codes\\C#\\Algorithms\\DP\\Fibonacci.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Algorithms\\DP\\Fibonacci.cs",
               "RelativeDocumentMoniker": "DP\\Fibonacci.cs",
-              "ToolTip": "D:\\github\\Source-Codes\\C#\\Algorithms\\DP\\Fibonacci.cs",
+              "ToolTip": "D:\\github\\Codes\\C#\\Algorithms\\DP\\Fibonacci.cs",
               "RelativeToolTip": "DP\\Fibonacci.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T06:43:48.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T06:43:48.595Z"
             }
           ]
         }
