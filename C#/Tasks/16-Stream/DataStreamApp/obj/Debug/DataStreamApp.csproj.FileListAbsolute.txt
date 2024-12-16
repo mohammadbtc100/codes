@@ -1,0 +1,14 @@
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\obj\Debug\DataStreamApp.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\obj\Debug\DataStreamApp.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\DataStreamApp.exe.config
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\DataStreamApp.exe
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\DataStreamApp.pdb
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\obj\Debug\DataStre.292F5CE1.Up2Date
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\obj\Debug\DataStreamApp.exe
+D:\github\Codes\C#\Tasks\16-Stream\DataStreamApp\obj\Debug\DataStreamApp.pdb
