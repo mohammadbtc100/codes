@@ -1,0 +1,7 @@
+D:\github\Codes\C#\Tasks\15-Socket\CS1\bin\Debug\CS1.exe.config
+D:\github\Codes\C#\Tasks\15-Socket\CS1\bin\Debug\CS1.exe
+D:\github\Codes\C#\Tasks\15-Socket\CS1\bin\Debug\CS1.pdb
+D:\github\Codes\C#\Tasks\15-Socket\CS1\obj\Debug\CS1.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\15-Socket\CS1\obj\Debug\CS1.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\15-Socket\CS1\obj\Debug\CS1.exe
+D:\github\Codes\C#\Tasks\15-Socket\CS1\obj\Debug\CS1.pdb
