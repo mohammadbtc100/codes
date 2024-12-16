@@ -1,0 +1,7 @@
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\bin\Debug\BinaryFile.exe.config
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\bin\Debug\BinaryFile.exe
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\bin\Debug\BinaryFile.pdb
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\obj\Debug\BinaryFile.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\obj\Debug\BinaryFile.exe
+D:\github\Codes\C#\Tasks\14-Serialization\BinaryFile\obj\Debug\BinaryFile.pdb

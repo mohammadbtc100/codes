@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web.Script.Serialization;
 
-namespace _01
+namespace JSJSON
 {
 
     public class Address
