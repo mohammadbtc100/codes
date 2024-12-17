@@ -1,0 +1,2 @@
+D:\github\Codes\C#\Tasks\20-Blockchain\SolnetContract\obj\Debug\SolnetContract.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\20-Blockchain\SolnetContract\obj\Debug\SolnetContract.csproj.CoreCompileInputs.cache

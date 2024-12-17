@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Codes\\C#\\Tasks\\20-Blockchain\\SolnetContract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B730C0-D6C2-40B8-AB79-0DBD08C1E435}|SolnetContract.csproj|d:\\github\\codes\\c#\\tasks\\20-blockchain\\solnetcontract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B730C0-D6C2-40B8-AB79-0DBD08C1E435}|SolnetContract.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Tasks\\20-Blockchain\\SolnetContract\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github\\Codes\\C#\\Tasks\\20-Blockchain\\SolnetContract\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:35:39.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
