@@ -1,0 +1,17 @@
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\WebcamApp.exe.config
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\WebcamApp.exe
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\WebcamApp.pdb
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.dll
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.Video.DirectShow.dll
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.Video.dll
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.xml
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.Video.xml
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\bin\Debug\AForge.Video.DirectShow.xml
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.Form1.resources
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.Properties.Resources.resources
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.csproj.GenerateResource.cache
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.csproj.Up2Date
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.exe
+D:\github\Codes\C#\Tasks\23-Webcam\WebcamApp\obj\Debug\WebcamApp.pdb

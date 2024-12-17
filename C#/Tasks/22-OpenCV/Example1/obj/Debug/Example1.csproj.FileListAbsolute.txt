@@ -1,0 +1,7 @@
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\bin\Debug\Example1.exe.config
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\bin\Debug\Example1.exe
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\bin\Debug\Example1.pdb
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\obj\Debug\Example1.exe
+D:\github\Codes\C#\Tasks\22-OpenCV\Example1\obj\Debug\Example1.pdb
