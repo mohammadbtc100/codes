@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\Codes\\C#\\Tasks\\34-Service\\WindowsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B345E40-859A-4EA8-9A4F-6648A44319CB}|WindowsService.csproj|d:\\github\\codes\\c#\\tasks\\34-service\\windowsservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B345E40-859A-4EA8-9A4F-6648A44319CB}|WindowsService.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "D:\\github\\Codes\\C#\\Tasks\\34-Service\\WindowsService\\Service1.cs",
+              "RelativeDocumentMoniker": "Service1.cs",
+              "ToolTip": "D:\\github\\Codes\\C#\\Tasks\\34-Service\\WindowsService\\Service1.cs [Design]",
+              "RelativeToolTip": "Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:25:12.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
