@@ -1,0 +1,10 @@
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\bin\Debug\TerminalApp.exe.config
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\bin\Debug\TerminalApp.exe
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\bin\Debug\TerminalApp.pdb
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.Form1.resources
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.Properties.Resources.resources
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.csproj.GenerateResource.cache
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.exe
+D:\github\Codes\C#\Tasks\25-Terminal\TerminalApp\obj\Debug\TerminalApp.pdb
