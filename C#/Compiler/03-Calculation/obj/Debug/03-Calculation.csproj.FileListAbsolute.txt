@@ -1,0 +1,7 @@
+D:\github\Codes\C#\Compiler\03-Calculation\bin\Debug\03-Calculation.exe.config
+D:\github\Codes\C#\Compiler\03-Calculation\bin\Debug\03-Calculation.exe
+D:\github\Codes\C#\Compiler\03-Calculation\bin\Debug\03-Calculation.pdb
+D:\github\Codes\C#\Compiler\03-Calculation\obj\Debug\03-Calculation.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Compiler\03-Calculation\obj\Debug\03-Calculation.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Compiler\03-Calculation\obj\Debug\03-Calculation.exe
+D:\github\Codes\C#\Compiler\03-Calculation\obj\Debug\03-Calculation.pdb
