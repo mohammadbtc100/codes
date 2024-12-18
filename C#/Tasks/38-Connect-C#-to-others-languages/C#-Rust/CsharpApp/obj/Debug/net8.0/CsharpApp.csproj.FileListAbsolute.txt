@@ -1,0 +1,15 @@
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\bin\Debug\net8.0\CsharpApp.exe
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\bin\Debug\net8.0\CsharpApp.deps.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\bin\Debug\net8.0\CsharpApp.runtimeconfig.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\bin\Debug\net8.0\CsharpApp.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\bin\Debug\net8.0\CsharpApp.pdb
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.AssemblyInfoInputs.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.AssemblyInfo.cs
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.sourcelink.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\refint\CsharpApp.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.pdb
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\CsharpApp.genruntimeconfig.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C#-Rust\CsharpApp\obj\Debug\net8.0\ref\CsharpApp.dll
