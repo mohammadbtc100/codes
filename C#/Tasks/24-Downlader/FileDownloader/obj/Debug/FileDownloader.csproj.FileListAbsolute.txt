@@ -1,0 +1,7 @@
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\bin\Debug\FileDownloader.exe.config
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\bin\Debug\FileDownloader.exe
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\bin\Debug\FileDownloader.pdb
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\obj\Debug\FileDownloader.csproj.AssemblyReference.cache
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\obj\Debug\FileDownloader.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\obj\Debug\FileDownloader.exe
+D:\github\Codes\C#\Tasks\24-Downlader\FileDownloader\obj\Debug\FileDownloader.pdb
