@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A6607C17-7441-4CA2-AD3C-6F18D9641402}|02-RoslynApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6607C17-7441-4CA2-AD3C-6F18D9641402}|02-RoslynApp.csproj|d:\\github\\codes\\c#\\compiler\\02-roslynapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6607C17-7441-4CA2-AD3C-6F18D9641402}|02-RoslynApp.csproj|D:\\github\\Codes\\C#\\Compiler\\02-RoslynApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6607C17-7441-4CA2-AD3C-6F18D9641402}|02-RoslynApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\github\\Codes\\C#\\Compiler\\02-RoslynApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAmwDgAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T09:22:51.531Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T09:07:04.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T09:07:04.626Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "ToolTip": "D:\\github\\Codes\\C#\\Compiler\\02-RoslynApp\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:02:35.027Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-18T07:02:35.027Z"
             }
           ]
         }
