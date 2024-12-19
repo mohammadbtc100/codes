@@ -1,0 +1,15 @@
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\bin\Debug\net8.0\C.exe
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\bin\Debug\net8.0\C.deps.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\bin\Debug\net8.0\C.runtimeconfig.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\bin\Debug\net8.0\C.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\bin\Debug\net8.0\C.pdb
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.AssemblyInfoInputs.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.AssemblyInfo.cs
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.csproj.CoreCompileInputs.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.sourcelink.json
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\refint\C.dll
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.pdb
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\C.genruntimeconfig.cache
+D:\github\Codes\C#\Tasks\38-Connect-C#-to-others-languages\C\obj\Debug\net8.0\ref\C.dll
