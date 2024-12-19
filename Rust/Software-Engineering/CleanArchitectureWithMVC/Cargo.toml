@@ -3,6 +3,9 @@ name = "CleanArchitectureWithMVC"
 version = "0.1.0"
 edition = "2021"
 
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
+
 [dependencies]
 actix-web = "4.0"
 diesel = { version = "2.0", features = ["r2d2", "postgres"] }
